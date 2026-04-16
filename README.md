@@ -1,16 +1,102 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Amir Ayman 👋</h1>
 
-<!--
-**amirayman20/amirayman20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Pharmacist transitioning into Data Analysis</b><br>
+  SQL • Power BI • Excel • Data Modeling • ETL<br>
+  Turning data into clear, actionable insights
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amir-ayman-664513103">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/amirayman20">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="mailto:amirayman20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 Featured Projects
+
+### 🟡 **1. SQL Data Warehouse Project (Medallion Architecture)**
+**Repo:** [data-warehouse-sql-project](https://github.com/amirayman20/data-warehouse-sql-project)  
+- Bronze → Silver → Gold layers  
+- Real-world cleaning, transformation, and modeling  
+- Stored procedures, views, and optimized queries  
+
+---
+
+### 🟡 **2. SQL Data Analytics Project**
+**Repo:** [sql-data-analytics-project](https://github.com/amirayman20/sql-data-analytics-project)  
+- Exploratory analysis  
+- Performance metrics  
+- Segmentation & reporting  
+- Clean, optimized SQL queries  
+
+---
+
+### 🟡 **3. Power BI Sales–Customer–Product Dashboard**
+**Repo:** [powerbi-sales-customer-product-dashboard](https://github.com/amirayman20/powerbi-sales-customer-product-dashboard)  
+- Built on top of the SQL Gold Layer  
+- KPIs, trends, segmentation  
+- Interactive visuals & clean layout  
+
+---
+
+### 🟡 **4. UK Railway Ticket Analytics (Power BI)**
+**Repo:** [uk-railway-ticket-analytics](https://github.com/amirayman20/uk-railway-ticket-analytics)  
+- Revenue trends  
+- Ticket segmentation  
+- Delay analysis  
+- Customer behavior insights  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirayman20&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirayman20&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🎯 About Me
+
+- Pharmacist shifting into Data Analysis  
+- Strong foundation in SQL, Power BI, Excel  
+- Passionate about building clean, structured data models  
+- Love transforming raw data into insights that drive decisions  
+
+---
+
+## 📬 Contact
+
+📧 **Email:** amirayman20@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/amir-ayman-664513103  
+📊 **Kaggle:** https://www.kaggle.com/amirayman20  
+
+---
+
+⭐ **If you like my work, feel free to star the repositories!**
