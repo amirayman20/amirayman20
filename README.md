@@ -1,10 +1,8 @@
-<h1 align="center">
-  👋 Hi, I'm <b style="color:#0A66C2;">Amir Ayman</b>
-</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#0A66C2;">Amir Ayman</span></h1>
 
 <p align="center">
-  <b>Hybrid Pharmacist & Data Analyst</b><br>
-  SQL • Python • Power BI • Excel • Data Modeling • ETL<br>
+  <b>Pharmacist & Data Analyst</b><br>
+  <i>SQL • Python • Power BI • Excel • Data Modeling • ETL</i><br>
   Turning raw data into clear, actionable insights
 </p>
 
@@ -93,7 +91,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirayman20&theme=tokyonight" alt="GitHub Streak" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirayman20&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
-
 
 ---
 
