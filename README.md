@@ -1,10 +1,13 @@
-<h1 align="center">Hi, I'm Amir Ayman 👋</h1>
+<h1 align="center">
+  👋 Hi, I'm <b style="color:#0A66C2;">Amir Ayman</b>
+</h1>
 
 <p align="center">
-  <b>Pharmacist transitioning into Data Analysis</b><br>
-  SQL • Power BI • Excel • Data Modeling • ETL<br>
-  Turning data into clear, actionable insights
+  <b>Hybrid Pharmacist & Data Analyst</b><br>
+  SQL • Python • Power BI • Excel • Data Modeling • ETL<br>
+  Turning raw data into clear, actionable insights
 </p>
+
 
 ---
 
@@ -82,13 +85,15 @@
 
 ---
 
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirAyman&show_icons=true&theme=transparent" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirAyman&theme=transparent" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAyman&layout=compact&theme=transparent" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amirayman20&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirayman20&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirayman20&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
+
 
 ---
 
