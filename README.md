@@ -83,17 +83,6 @@
 
 ---
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <i>GitHub Stats section removed temporarily due to service outage.</i>
-</p>
-
-
-
----
-
 ## 🎯 About Me
 
 - Pharmacist shifting into Data Analysis  
