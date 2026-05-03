@@ -87,10 +87,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amirayman20&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats-git-main-rstaa.vercel.app/?user=amirayman20&theme=tokyonight" alt="GitHub Streak" height="160"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amirayman20&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <i>GitHub Stats section removed temporarily due to service outage.</i>
 </p>
+
 
 
 ---
